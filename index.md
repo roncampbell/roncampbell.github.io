@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## My first GitHub Page
+
+This is a prototype Page, which I will play with as i learn how to work in GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/roncampbell/roncampbell.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
